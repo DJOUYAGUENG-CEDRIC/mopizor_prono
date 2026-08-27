@@ -137,11 +137,13 @@ https://reffpa.com/L?tag=d_4523384m_97c_spinandwin_0825_fr&site=4523384&ad=97&r=
 Lien Melbet :
 https://refpa3665.com/L?tag=d_2876213m_18757c_&site=2876213&ad=18757
 
+
+Lien Betwinner :
+https://bwredir.com/377H?p=%2Fregistration%2F
+
 Lien Linebet :
 https://lb-aff.com/L?tag=d_3516967m_66803c_apk1&site=3516967&ad=66803
 
-Lien Betwinner :
-https://bwredir.com/2sfC?p=%2Fregistration%2F
 
 Lien Megapari :
 https://refpazitag.top/L?tag=d_3516973m_25437c_&site=3516973&ad=25437&r=registration

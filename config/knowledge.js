@@ -109,6 +109,17 @@ Emplacement du code :
 Dans le formulaire d'inscription, rechercher l'option "J'ai un code promo"
 et saisir le code LTM5 avant de valider.
 
+
+-- BETWINNER --
+Betwinner est un bookmaker recommandé pour le service Mopizor Prono.
+
+Lien d'inscription :
+https://bwredir.com/377H?p=%2Fregistration%2F
+
+Emplacement du code :
+Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
+généralement vers le bas du formulaire avant la validation.
+
 -- LINEBET --
 Linebet est un bookmaker recommandé pour le service Mopizor Prono.
 
@@ -119,15 +130,6 @@ Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
 généralement vers le bas du formulaire avant la validation.
 
--- BETWINNER --
-Betwinner est un bookmaker recommandé pour le service Mopizor Prono.
-
-Lien d'inscription :
-https://bwredir.com/2sfC?p=%2Fregistration%2F
-
-Emplacement du code :
-Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
-généralement vers le bas du formulaire avant la validation.
 
 -- MEGAPARI --
 Megapari est un bookmaker recommandé pour le service Mopizor Prono.

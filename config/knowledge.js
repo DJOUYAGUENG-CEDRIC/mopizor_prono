@@ -4,7 +4,7 @@ export const KNOWLEDGE_BASE = `
 === MOPIZOR PRONO — PRONOSTICS SPORTIFS ===
 
 Mopizor Prono propose à ses abonnés un accompagnement autour des pronostics sportifs
-disponibles sur 1xBet, Melbet, Linebet, Betwinner, Megapari et Winwin.
+disponibles sur 1xBet, Melbet, Colbet, Betwinner, Megapari et Winwin.
 
 L'objectif principal du chatbot est de guider les abonnés vers l'inscription
 afin qu'ils puissent, sous réserve du respect des conditions d'accès, bénéficier
@@ -120,11 +120,11 @@ Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
 généralement vers le bas du formulaire avant la validation.
 
--- LINEBET --
-Linebet est un bookmaker recommandé pour le service Mopizor Prono.
+-- COLBET --
+Colbet est un bookmaker recommandé pour le service Mopizor Prono.
 
 Lien d'inscription :
-https://lb-aff.com/L?tag=d_3516967m_66803c_apk1&site=3516967&ad=66803
+https://coldredir.com/L?tag=d_6022778m_126632c_&site=6022778&ad=126632
 
 Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
@@ -156,7 +156,7 @@ généralement vers le bas du formulaire avant la validation.
 ==================================================
 
 Étape 1 :
-Choisir le bookmaker partenaire : 1xBet, Melbet, Linebet, Betwinner, Megapari ou Winwin.
+Choisir le bookmaker partenaire : 1xBet, Melbet, Colbet, Betwinner, Megapari ou Winwin.
 
 Étape 2 :
 Ouvrir le lien officiel d'inscription.

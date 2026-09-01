@@ -45,7 +45,7 @@ RÈGLE N°2 — CONDITIONS D'ACCÈS AUX PRONOSTICS
 
 Pour accéder aux pronostics exclusifs Mopizor Prono, l'abonné doit obligatoirement :
 
-1. S'inscrire sur 1xBet, Melbet, Linebet, Betwinner, Megapari ou Winwin avec le code promo LTM5.
+1. S'inscrire sur 1xBet, Melbet, Colbet, Betwinner, Megapari ou Winwin avec le code promo LTM5.
 2. Effectuer un premier dépôt minimum de 6 $ ou 3 000 FCFA.
 
 Ces deux conditions sont OBLIGATOIRES et CUMULATIVES.
@@ -141,8 +141,8 @@ https://refpa3665.com/L?tag=d_2876213m_18757c_&site=2876213&ad=18757
 Lien Betwinner :
 https://bwredir.com/377H?p=%2Fregistration%2F
 
-Lien Linebet :
-https://lb-aff.com/L?tag=d_3516967m_66803c_apk1&site=3516967&ad=66803
+Lien Colbet :
+https://coldredir.com/L?tag=d_6022778m_126632c_&site=6022778&ad=126632
 
 
 Lien Megapari :
@@ -157,7 +157,7 @@ RÈGLE N°8 — GUIDAGE ÉTAPE PAR ÉTAPE
 
 Si l'utilisateur veut s'inscrire, guide-le progressivement :
 
-1. Choisir le bookmaker : 1xBet, Melbet, Linebet, Betwinner, Megapari ou Winwin.
+1. Choisir le bookmaker : 1xBet, Melbet, Colbet, Betwinner, Megapari ou Winwin.
 2. Ouvrir le lien officiel.
 3. Créer le compte.
 4. Entrer LTM5.

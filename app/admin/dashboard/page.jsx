@@ -71,7 +71,7 @@ export default function Dashboard() {
   const goPage = (n) => { setPage(n); fetchConversations(n * PER_PAGE); setSelected(null); };
 
   return (
-    <div className="min-h-screen" style={{ background: '#f5f3ff', color: '#1e1b4b' }}>
+    <div className="h-screen overflow-y-auto" style={{ background: '#f5f3ff', color: '#1e1b4b' }}>
       <div className="sticky top-0 z-10 flex items-center justify-between px-6 py-4 shadow-sm"
         style={{ background: '#ffffff', borderBottom: '1px solid #e0e7ff', borderTop: '3px solid #4f46e5' }}>
         <p className="font-bold text-base" style={{ color: '#1e1b4b' }}>Mopizor Prono — Admin</p>

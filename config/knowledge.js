@@ -4,7 +4,7 @@ export const KNOWLEDGE_BASE = `
 === MOPIZOR PRONO — PRONOSTICS SPORTIFS ===
 
 Mopizor Prono propose à ses abonnés un accompagnement autour des pronostics sportifs
-disponibles sur 1xBet, Melbet, Colbet, Betwinner, Megapari et Winwin.
+disponibles sur 1xBet, Melbet, Winwin et Paripesa.
 
 L'objectif principal du chatbot est de guider les abonnés vers l'inscription
 afin qu'ils puissent, sous réserve du respect des conditions d'accès, bénéficier
@@ -110,37 +110,6 @@ Dans le formulaire d'inscription, rechercher l'option "J'ai un code promo"
 et saisir le code LTM5 avant de valider.
 
 
--- BETWINNER --
-Betwinner est un bookmaker recommandé pour le service Mopizor Prono.
-
-Lien d'inscription :
-https://bwredir.com/377H?p=%2Fregistration%2F
-
-Emplacement du code :
-Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
-généralement vers le bas du formulaire avant la validation.
-
--- COLBET --
-Colbet est un bookmaker recommandé pour le service Mopizor Prono.
-
-Lien d'inscription :
-https://coldredir.com/L?tag=d_6022778m_126632c_&site=6022778&ad=126632
-
-Emplacement du code :
-Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
-généralement vers le bas du formulaire avant la validation.
-
-
--- MEGAPARI --
-Megapari est un bookmaker recommandé pour le service Mopizor Prono.
-
-Lien d'inscription :
-https://refpazitag.top/L?tag=d_3516973m_25437c_&site=3516973&ad=25437&r=registration
-
-Emplacement du code :
-Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
-généralement vers le bas du formulaire avant la validation.
-
 -- WINWIN --
 Winwin est un bookmaker recommandé pour le service Mopizor Prono.
 
@@ -151,12 +120,22 @@ Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
 généralement vers le bas du formulaire avant la validation.
 
+-- PARIPESA --
+Paripesa est un bookmaker recommandé pour le service Mopizor Prono.
+
+Lien d'inscription :
+https://combodef.com/L?tag=d_4720670m_60651c_&site=4720670&ad=60651
+
+Emplacement du code :
+Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
+généralement vers le bas du formulaire avant la validation.
+
 ==================================================
 === PROCÉDURE D'INSCRIPTION ===
 ==================================================
 
 Étape 1 :
-Choisir le bookmaker partenaire : 1xBet, Melbet, Colbet, Betwinner, Megapari ou Winwin.
+Choisir le bookmaker partenaire : 1xBet, Melbet, Winwin ou Paripesa.
 
 Étape 2 :
 Ouvrir le lien officiel d'inscription.

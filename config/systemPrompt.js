@@ -143,6 +143,9 @@ https://refpa49781.com/L?tag=d_4438895m_68383c_&site=4438895&ad=68383
 Lien Paripesa :
 https://combodef.com/L?tag=d_4720670m_60651c_&site=4720670&ad=60651
 
+Lien goldpari :
+https://refpa-9251.com/L?tag=d_6133099m_69627c_&site=6133099&ad=69627
+
 ==================================================
 RÈGLE N°8 — GUIDAGE ÉTAPE PAR ÉTAPE
 ==================================================

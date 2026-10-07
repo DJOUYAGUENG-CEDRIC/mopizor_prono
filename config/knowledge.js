@@ -130,12 +130,23 @@ Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
 généralement vers le bas du formulaire avant la validation.
 
+
+-- GOLDPARI --
+GOLDPARI est un bookmaker recommandé pour le service Mopizor Prono.
+
+Lien d'inscription :
+https://refpa-9251.com/L?tag=d_6133099m_69627c_&site=6133099&ad=69627
+
+Emplacement du code :
+Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
+généralement vers le bas du formulaire avant la validation.
+
 ==================================================
 === PROCÉDURE D'INSCRIPTION ===
 ==================================================
 
 Étape 1 :
-Choisir le bookmaker partenaire : 1xBet, Melbet, Winwin ou Paripesa.
+Choisir le bookmaker partenaire : 1xBet, Melbet, Winwin , Paripesa, goldpari.
 
 Étape 2 :
 Ouvrir le lien officiel d'inscription.

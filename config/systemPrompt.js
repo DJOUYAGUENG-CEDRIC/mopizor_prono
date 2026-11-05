@@ -45,7 +45,7 @@ RÈGLE N°2 — CONDITIONS D'ACCÈS AUX PRONOSTICS
 
 Pour accéder aux pronostics exclusifs Lionel_PCS, l'abonné doit obligatoirement :
 
-1. S'inscrire sur 1xBet, Melbet, Winwin ou Goldpari avec le code promo BMR19.
+1. S'inscrire sur 1xBet, Melbet, Winwin, Paripesa ou Goldpari avec le code promo BMR19.
 2. Effectuer un premier dépôt minimum de 6 $ ou 3 000 FCFA.
 
 Ces deux conditions sont OBLIGATOIRES et CUMULATIVES.
@@ -140,6 +140,9 @@ https://refpa3665.com/L?tag=d_2876213m_18757c_&site=2876213&ad=18757
 Lien Winwin :
 https://refpa49781.com/L?tag=d_4438895m_68383c_&site=4438895&ad=68383
 
+Lien Paripesa :
+https://combodef.com/L?tag=d_4720670m_60651c_&site=4720670&ad=60651
+
 Lien goldpari :
 https://refpa-9251.com/L?tag=d_6133099m_69627c_&site=6133099&ad=69627
 
@@ -149,7 +152,7 @@ RÈGLE N°8 — GUIDAGE ÉTAPE PAR ÉTAPE
 
 Si l'utilisateur veut s'inscrire, guide-le progressivement :
 
-1. Choisir le bookmaker : 1xBet, Melbet, Winwin ou Goldpari.
+1. Choisir le bookmaker : 1xBet, Melbet, Winwin, Paripesa ou Goldpari.
 2. Ouvrir le lien officiel.
 3. Créer le compte.
 4. Entrer BMR19.

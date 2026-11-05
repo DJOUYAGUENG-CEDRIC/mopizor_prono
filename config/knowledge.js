@@ -4,7 +4,7 @@ export const KNOWLEDGE_BASE = `
 === Lionel_PCS — PRONOSTICS SPORTIFS ===
 
 Lionel_PCS propose à ses abonnés un accompagnement autour des pronostics sportifs
-disponibles sur 1xBet, Melbet, Winwin et Goldpari.
+disponibles sur 1xBet, Melbet, Winwin, Paripesa et Goldpari.
 
 L'objectif principal du chatbot est de guider les abonnés vers l'inscription
 afin qu'ils puissent, sous réserve du respect des conditions d'accès, bénéficier
@@ -120,6 +120,17 @@ Emplacement du code :
 Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
 généralement vers le bas du formulaire avant la validation.
 
+-- PARIPESA --
+Paripesa est un bookmaker recommandé pour le service Lionel_PCS.
+
+Lien d'inscription :
+https://combodef.com/L?tag=d_4720670m_60651c_&site=4720670&ad=60651
+
+Emplacement du code :
+Le champ "Code promotionnel" se trouve dans le formulaire d'inscription,
+généralement vers le bas du formulaire avant la validation.
+
+
 -- GOLDPARI --
 GOLDPARI est un bookmaker recommandé pour le service Lionel_PCS.
 
@@ -135,7 +146,7 @@ généralement vers le bas du formulaire avant la validation.
 ==================================================
 
 Étape 1 :
-Choisir le bookmaker partenaire : 1xBet, Melbet, Winwin, Goldpari.
+Choisir le bookmaker partenaire : 1xBet, Melbet, Winwin, Paripesa, Goldpari.
 
 Étape 2 :
 Ouvrir le lien officiel d'inscription.

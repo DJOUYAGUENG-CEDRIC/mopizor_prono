@@ -20,7 +20,7 @@ function CopyIcon() {
 }
 function CheckIcon() {
   return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="#4f46e5" strokeWidth="2.5" className="w-3.5 h-3.5">
+    <svg viewBox="0 0 24 24" fill="none" stroke="#3390ec" strokeWidth="2.5" className="w-3.5 h-3.5">
       <polyline points="20 6 9 17 4 12" />
     </svg>
   );
@@ -35,6 +35,7 @@ function WhatsAppIcon() {
 
 export default function PlatformsCard() {
   const [copiedName, setCopiedName] = useState(null);
+  const [open, setOpen] = useState(true);
 
   const handleCopy = async (code, name) => {
     try {
@@ -46,27 +47,36 @@ export default function PlatformsCard() {
 
   return (
     <div className="px-3 pt-3 pb-1">
-      <div className="rounded-xl px-3 py-2.5" style={{ background: '#f5f3ff', border: '1px solid #e0e7ff' }}>
-        <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: '#9ca3af' }}>
-          Plateformes recommandées
-        </p>
+      <div className="rounded-xl px-3 py-2.5" style={{ background: '#e7ebf0', border: '1px solid #dfe5ea' }}>
+        <button type="button" onClick={() => setOpen((v) => !v)} aria-expanded={open}
+          className="flex items-center justify-between w-full text-left"
+          style={{ marginBottom: open ? '0.5rem' : 0 }}>
+          <span className="text-[11px] font-bold uppercase tracking-widest" style={{ color: '#3390ec' }}>
+            Plateformes recommandées
+          </span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="#3390ec" strokeWidth="2.5" className="w-4 h-4 transition-transform"
+            style={{ transform: open ? 'rotate(180deg)' : 'none' }}>
+            <polyline points="6 9 12 15 18 9" />
+          </svg>
+        </button>
 
+        {open && (<>
         <div className="flex flex-wrap gap-2 mb-3">
           {PLATFORMS.map((p) => (
             <div key={p.name} className="flex items-center gap-1.5 rounded-full px-2.5 py-1.5"
-              style={{ background: '#ffffff', border: '1px solid #e0e7ff' }}>
+              style={{ background: '#ffffff', border: '1px solid #dfe5ea' }}>
               <a href={p.url} target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-1 text-xs font-semibold transition-colors"
                 style={{ color: '#6b7280' }}
-                onMouseEnter={(e) => { e.currentTarget.style.color = '#4f46e5'; }}
+                onMouseEnter={(e) => { e.currentTarget.style.color = '#3390ec'; }}
                 onMouseLeave={(e) => { e.currentTarget.style.color = '#6b7280'; }}
                 title={`Rejoindre ${p.name}`}>
                 <ExternalLinkIcon />{p.name}
               </a>
-              <span className="text-xs font-mono font-bold select-all" style={{ color: '#4f46e5' }}>{p.code}</span>
+              <span className="text-xs font-mono font-bold select-all" style={{ color: '#3390ec' }}>{p.code}</span>
               <button type="button" onClick={() => handleCopy(p.code, p.name)}
                 className="transition-colors ml-0.5"
-                style={{ color: copiedName === p.name ? '#4f46e5' : '#9ca3af' }}
+                style={{ color: copiedName === p.name ? '#3390ec' : '#9ca3af' }}
                 title={`Copier le code ${p.code}`} aria-label={`Copier le code ${p.code}`}>
                 {copiedName === p.name ? <CheckIcon /> : <CopyIcon />}
               </button>
@@ -74,13 +84,14 @@ export default function PlatformsCard() {
           ))}
         </div>
 
-        <div className="flex items-center gap-2 pt-2" style={{ borderTop: '1px solid #e0e7ff' }}>
+        <div className="flex items-center gap-2 pt-2" style={{ borderTop: '1px solid #dfe5ea' }}>
           <span className="text-xs" style={{ color: '#9ca3af' }}>Retrouvez-moi sur</span>
           <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer"
             className="hover:opacity-75 transition-opacity" title="WhatsApp" aria-label="Contact WhatsApp">
             <WhatsAppIcon />
           </a>
         </div>
+        </>)}
       </div>
     </div>
   );

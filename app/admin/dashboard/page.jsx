@@ -74,7 +74,7 @@ export default function Dashboard() {
     <div className="h-screen overflow-y-auto" style={{ background: '#f5f3ff', color: '#1e1b4b' }}>
       <div className="sticky top-0 z-10 flex items-center justify-between px-6 py-4 shadow-sm"
         style={{ background: '#ffffff', borderBottom: '1px solid #e0e7ff', borderTop: '3px solid #4f46e5' }}>
-        <p className="font-bold text-base" style={{ color: '#1e1b4b' }}>Mopizor Prono — Admin</p>
+        <p className="font-bold text-base" style={{ color: '#1e1b4b' }}>Lionel_PCS — Admin</p>
         <button type="button" onClick={logout}
           className="text-xs px-3 py-1.5 rounded-lg transition-colors font-medium"
           style={{ color: '#6366f1', background: '#ede9fe', border: '1px solid #e0e7ff' }}

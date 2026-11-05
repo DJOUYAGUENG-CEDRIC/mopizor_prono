@@ -68,23 +68,23 @@ export default function AudioMessage({ src }) {
   };
 
   const progress = duration > 0 ? (currentTime / duration) * 100 : 0;
-  const trackBg = `linear-gradient(to right, #4f46e5 ${progress}%, #e0e7ff ${progress}%)`;
+  const trackBg = `linear-gradient(to right, #3390ec ${progress}%, #dfe5ea ${progress}%)`;
 
   return (
     <div className="flex justify-start">
       <div className="rounded-2xl px-3 py-3 w-72 shadow-sm"
-        style={{ background: '#ffffff', border: '1px solid #e0e7ff', borderTopLeftRadius: '4px' }}>
+        style={{ background: '#ffffff', border: '1px solid #dfe5ea', borderTopLeftRadius: '4px' }}>
         <audio ref={audioRef} src={src} preload="metadata"><track kind="captions" /></audio>
 
         <div className="flex items-center gap-1.5 mb-2.5">
-          <div className="rounded-full p-1 text-white shrink-0" style={{ background: '#4f46e5' }}><MicIcon /></div>
+          <div className="rounded-full p-1 text-white shrink-0" style={{ background: '#3390ec' }}><MicIcon /></div>
           <span className="text-xs font-medium" style={{ color: '#6b7280' }}>Message vocal</span>
         </div>
 
         <div className="flex items-center gap-2.5">
           <button type="button" onClick={togglePlay}
             className="shrink-0 w-10 h-10 rounded-full flex items-center justify-center transition-colors shadow text-white"
-            style={{ background: '#4f46e5' }} aria-label={isPlaying ? 'Pause' : 'Lecture'}>
+            style={{ background: '#3390ec' }} aria-label={isPlaying ? 'Pause' : 'Lecture'}>
             {isPlaying ? <PauseIcon /> : <PlayIcon />}
           </button>
 
@@ -99,7 +99,7 @@ export default function AudioMessage({ src }) {
 
           <button type="button" onClick={cycleSpeed}
             className="shrink-0 text-xs font-bold rounded-md px-2 py-1 transition-colors min-w-9 text-center"
-            style={{ color: '#4f46e5', background: '#ede9fe' }} aria-label="Vitesse de lecture">
+            style={{ color: '#3390ec', background: '#e3f1fd' }} aria-label="Vitesse de lecture">
             {SPEEDS[speedIndex]}x
           </button>
         </div>

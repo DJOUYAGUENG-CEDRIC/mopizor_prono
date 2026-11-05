@@ -58,11 +58,11 @@ export default function Page() {
   return (
     <div
       className="flex flex-col h-dvh max-w-md mx-auto overflow-hidden"
-      style={{ background: '#f5f3ff', color: '#1e1b4b' }}
+      style={{ background: '#e7ebf0', color: '#17212b' }}
     >
       <Header />
 
-      <main className="flex-1 overflow-y-auto min-h-0 px-3 py-4 space-y-3" style={{ background: '#f5f3ff' }}>
+      <main className="flex-1 overflow-y-auto min-h-0 px-3 py-4 space-y-3" style={{ background: 'linear-gradient(160deg, #dbe9d3 0%, #cfe3e8 50%, #d9e2f2 100%)' }}>
         <ChatBubble sender="assistant" text={WELCOME_MESSAGE} />
         <AudioMessage src={AUDIO_URL} />
 
@@ -73,9 +73,9 @@ export default function Page() {
         {isLoading && (
           <ChatBubble sender="assistant">
             <span className="flex gap-1 items-center py-0.5">
-              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:0ms]"   style={{ background: '#4f46e5' }} />
-              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:150ms]" style={{ background: '#4f46e5' }} />
-              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:300ms]" style={{ background: '#4f46e5' }} />
+              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:0ms]"   style={{ background: '#3390ec' }} />
+              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:150ms]" style={{ background: '#3390ec' }} />
+              <span className="w-2 h-2 rounded-full animate-bounce [animation-delay:300ms]" style={{ background: '#3390ec' }} />
             </span>
           </ChatBubble>
         )}
@@ -85,7 +85,7 @@ export default function Page() {
 
       <div
         className="shrink-0 border-t"
-        style={{ background: '#ffffff', borderColor: '#e0e7ff', paddingBottom: 'env(safe-area-inset-bottom)' }}
+        style={{ background: '#ffffff', borderColor: '#dfe5ea', paddingBottom: 'env(safe-area-inset-bottom)' }}
       >
         <PlatformsCard />
         <ChatInput onSend={handleSend} disabled={isLoading} />

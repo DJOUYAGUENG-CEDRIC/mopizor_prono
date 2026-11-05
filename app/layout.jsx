@@ -1,9 +1,9 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Mopizor Prono',
+  title: 'Lionel_PCS',
   description: 'Assistant expert en pronostics sportifs',
-  icons: { icon: '/vini.jpeg' },
+  icons: { icon: '/pcs.jpg' },
 };
 
 export const viewport = {

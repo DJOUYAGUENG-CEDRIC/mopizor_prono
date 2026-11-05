@@ -39,27 +39,27 @@ export default function Header() {
   return (
     <header
       className="shrink-0 flex items-center gap-3 px-4 py-3 z-10 relative shadow-sm"
-      style={{ background: '#ffffff', borderBottom: '1px solid #e0e7ff', borderTop: '3px solid #4f46e5' }}
+      style={{ background: '#ffffff', borderBottom: '1px solid #dfe5ea' }}
     >
       <div className="relative shrink-0">
         <img
           src={PROFILE_IMAGE}
           alt={ASSISTANT_NAME}
           className="w-11 h-11 rounded-full object-cover"
-          style={{ boxShadow: '0 0 0 2px #4f46e5' }}
+          style={{ boxShadow: '0 0 0 2px #3390ec' }}
           onError={(e) => {
             e.target.onerror = null;
             e.target.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Crect width='48' height='48' rx='24' fill='%234f46e5'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='central' text-anchor='middle' fill='white' font-size='15' font-family='sans-serif' font-weight='bold'%3EMP%3C/text%3E%3C/svg%3E";
           }}
         />
-        <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full" style={{ background: '#6366f1', boxShadow: '0 0 0 2px #ffffff' }} />
+        <span className="absolute bottom-0 right-0 w-3 h-3 rounded-full" style={{ background: '#4fae4e', boxShadow: '0 0 0 2px #ffffff' }} />
       </div>
 
       <div className="flex-1 min-w-0">
-        <p className="font-semibold text-sm truncate leading-tight" style={{ color: '#1e1b4b' }}>{ASSISTANT_NAME}</p>
+        <p className="font-semibold text-sm truncate leading-tight" style={{ color: '#17212b' }}>{ASSISTANT_NAME}</p>
         <div className="flex items-center gap-1.5 mt-0.5">
-          <span className="w-1.5 h-1.5 rounded-full animate-pulse" style={{ background: '#6366f1' }} />
-          <span className="text-xs font-medium" style={{ color: '#6366f1' }}>En ligne</span>
+          <span className="w-1.5 h-1.5 rounded-full animate-pulse" style={{ background: '#4fae4e' }} />
+          <span className="text-xs font-medium" style={{ color: '#4fae4e' }}>En ligne</span>
         </div>
       </div>
 
@@ -67,7 +67,7 @@ export default function Header() {
         type="button"
         onClick={() => setMenuOpen((v) => !v)}
         className="shrink-0 flex items-center justify-center w-9 h-9 rounded-xl transition-colors"
-        style={{ color: '#6b7280', background: menuOpen ? 'rgba(79,70,229,0.08)' : 'transparent' }}
+        style={{ color: '#6b7280', background: menuOpen ? 'rgba(51,144,236,0.08)' : 'transparent' }}
         aria-label="Menu"
       >
         {menuOpen ? <CloseIcon /> : <BurgerIcon />}
@@ -75,16 +75,16 @@ export default function Header() {
 
       {menuOpen && (
         <div className="absolute top-full right-3 mt-2 w-52 rounded-xl overflow-hidden z-50 shadow-lg"
-          style={{ background: '#ffffff', border: '1px solid #e0e7ff' }}>
+          style={{ background: '#ffffff', border: '1px solid #dfe5ea' }}>
           <button
             type="button"
             onClick={() => { setMenuOpen(false); router.push('/admin'); }}
             className="flex items-center gap-3 w-full px-4 py-3 text-sm text-left transition-colors"
             style={{ color: '#6b7280' }}
-            onMouseEnter={(e) => { e.currentTarget.style.background = '#f5f3ff'; e.currentTarget.style.color = '#4f46e5'; }}
+            onMouseEnter={(e) => { e.currentTarget.style.background = '#e7ebf0'; e.currentTarget.style.color = '#3390ec'; }}
             onMouseLeave={(e) => { e.currentTarget.style.background = 'transparent'; e.currentTarget.style.color = '#6b7280'; }}
           >
-            <span style={{ color: '#4f46e5' }}><LockIcon /></span>{' '}Connexion Admin
+            <span style={{ color: '#3390ec' }}><LockIcon /></span>{' '}Connexion Admin
           </button>
         </div>
       )}

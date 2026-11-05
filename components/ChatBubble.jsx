@@ -30,8 +30,8 @@ export default function ChatBubble({ sender, text, children }) {
       <div
         className="max-w-[80%] px-4 py-2.5 rounded-2xl text-sm shadow-sm"
         style={isUser
-          ? { background: 'linear-gradient(135deg, #4f46e5, #6366f1)', color: '#ffffff', borderBottomRightRadius: '4px', lineHeight: '1.5' }
-          : { background: '#ffffff', color: '#1e1b4b', border: '1px solid #e0e7ff', borderBottomLeftRadius: '4px' }
+          ? { background: 'linear-gradient(135deg, #3390ec, #4fae4e)', color: '#ffffff', borderBottomRightRadius: '4px', lineHeight: '1.5' }
+          : { background: '#ffffff', color: '#17212b', borderBottomLeftRadius: '4px' }
         }
       >
         {content}

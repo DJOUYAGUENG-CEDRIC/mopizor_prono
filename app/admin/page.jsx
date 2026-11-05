@@ -44,7 +44,7 @@ export default function AdminLogin() {
             style={{ background: '#ede9fe', color: '#4f46e5' }}>
             <LockIcon />
           </div>
-          <p className="text-xl font-bold" style={{ color: '#1e1b4b' }}>Mopizor Prono</p>
+          <p className="text-xl font-bold" style={{ color: '#1e1b4b' }}>Lionel_PCS</p>
           <p className="text-sm mt-1 font-medium" style={{ color: '#6366f1' }}>Panel Administrateur</p>
         </div>
 
